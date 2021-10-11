@@ -6,3 +6,4 @@ my stupid boss still prefers svn.
 you are very strong.
 i switch to dev.
 creating a new branch is quick & simple.
+test conflict.
