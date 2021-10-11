@@ -5,5 +5,10 @@ git tracks changes of files.
 my stupid boss still prefers svn.
 you are very strong.
 i switch to dev.
+<<<<<<< HEAD
 creating a new branch is quick and simple.
 Test conflict.
+=======
+creating a new branch is quick & simple.
+test conflict.
+>>>>>>> feature1
