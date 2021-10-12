@@ -3,10 +3,9 @@ git is free software ditributed under the GPL.
 Git has a mutable index called stage.
 git tracks changes of files.
 my stupid boss still prefers svn.
-you are very strong.(fixed bugs)
+you are very strong.
 i switch to dev.
 creating a new branch is quick and simple.
 test conflict.
 test conflict1.
 add merge.
-i am working.
